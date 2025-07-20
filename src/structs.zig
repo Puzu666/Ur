@@ -1,9 +1,15 @@
 const enums = @import("enums.zig");
+const std = @import("std");
+const f = @import("fonctions.zig");
 
 const Plateau = struct {
     var plateau = enums.case[2][15];
 
-    pub fn move(joueur: Joueur) void {}
+    //pub fn move(joueur: Joueur) void {
+    //const input = std.io.getStdIn().reader();
+
+    // if (input != 'Q') {}
+    //}
 };
 
 const Joueur = struct {

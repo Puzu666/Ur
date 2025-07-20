@@ -3,5 +3,7 @@ const case = enum {
     FLEUR,
     BLANC,
     NOIR,
+    BLANC_FLEUR,
+    NOIR_FLEUR,
     FIN,
 };
