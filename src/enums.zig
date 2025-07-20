@@ -1,9 +1,9 @@
 const case = enum {
     VIDE,
     FLEUR,
-    BLANC,
-    NOIR,
-    BLANC_FLEUR,
-    NOIR_FLEUR,
+    BLEU,
+    ROUGE,
+    BLEU_FLEUR,
+    ROUGE_FLEUR,
     FIN,
 };
